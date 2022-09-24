@@ -138,46 +138,6 @@ $ docker run --env-file .env kyb3rr/modmail
 ```
 - `.env` should be the path to your env file; you can also supply a path: `/path/to/.env`.
 
-## Sponsors
-
-Special thanks to our sponsors for supporting the project.
-
-SirReddit:
-<br>
-<a href='https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ/featured'>
-  <img height=100 src='https://i.imgur.com/WyzaPKY.png' style='margin:5px'>
-</a>
-<br>
-<br>
-Prime Servers Inc:
-<br>
-<a href='https://primeserversinc.com/'>
-  <img height=100 src='https://i.imgur.com/sVcwtt8.png' style='margin:5px'>
-</a>
-<br>
-<br>
-Real Madrid:
-<br>
-<a href='https://discord.gg/realmadrid'>
-  <img height=100 src='https://i.imgur.com/9Rat2Qb.png' style='margin:5px'>
-</a>
-<br>
-<br>
-Advertise Your Server:
-<br>
-<a href='https://discord.gg/zP8KcF4VQz'>
-  <img height=100 src='https://user-images.githubusercontent.com/45324516/140673115-dd3e873c-36b6-4383-9eb4-db42e1986ab3.png' style='margin:5px'>
-</a>
-<br>
-<br>
-Discord Advice Center:
-<br>
-<a href='https://discord.gg/zmwZy5fd9v'>
-  <img height=100 src='https://i.imgur.com/1hrjcHd.png' style='margin:5px'>
-</a>
-
-
-Become a sponsor on [Patreon](https://patreon.com/kyber).
 
 ## Plugins
 
