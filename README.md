@@ -11,10 +11,6 @@
 
   <br>
   
-  <a href="https://github.com/sparven69/modmail/">
-    <img src="https://api.modmail.dev/badges/instances.svg" alt="Bot instances">
-  </a>
-
   <a href="https://discord.gg/a3uSsXSWSn">
     <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
@@ -23,13 +19,6 @@
     <img src="https://img.shields.io/badge/Made%20With-Python%203.8-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.8">
   </a>
 
-  <a href="https://github.com/ambv/black">
-    <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/kyb3r/modmail/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT License">
-  </a>
 
 <br>
 <img src='https://i.imgur.com/fru5Q07.png' align='center' width=500>
